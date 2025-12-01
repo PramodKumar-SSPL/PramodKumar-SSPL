@@ -1,3 +1,5 @@
+[![Oracle Cloud Infrastructure 2025 Certified Architect Associate
+](https://images.credly.com/images/084e891c-6c83-446a-aa63-b1a30bf9599f/OCI25CAA_cached_image_20251201-30-y1qptl.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6E2E24F34F84B9BED376E55362384651B64E3C7ABAAE7C1BB9615F74F34DE26E)
 ## Hi there 👋
 
 <!--
